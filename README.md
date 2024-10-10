@@ -3,19 +3,20 @@
 
 ### Table of Contents
 1. [Project Overview](#project-overview)
-2. [Tools](#tools)
-3. [Data](#data)
-4. [Data Analysis](#data-analysis)
-5. [Power BI Visualizations](#power-bi-visualizations)
+2. [Data](#data)
+3. [Tools](#tools)
+4. [SQL Server](#sql-server)
+5. [Power BI](#power-bi)
 6. [Insights](#insights)
 7. [Recommendations](#recommendations)
-8. [Conclusion](#conclusion)
+
 
 ### Project Overview
 ---
 In this project, I developed key performance metrics for Cece's Cycling Services, focusing on hourly revenue analysis, profit trends, seasonal revenue, and rider demographics. The analysis highlights opportunities for revenue management within the shared economy of urban mobility.
 
 ### Data
+---
 The data i worked with was already cleaned and prepared. What i did to make the analysis process easily was go through the data and understand each column. Any further data modelling needed was done in Power BI through Data transformation
 
 ## Tools 
